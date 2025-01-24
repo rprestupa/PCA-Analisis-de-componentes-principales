@@ -10,7 +10,7 @@ Posteriormente, se calcula el porcentaje de la varianza original que logra reten
 <br><br>
 ![](https://github.com/rprestupa/PCA-Analisis-de-componentes-principales/blob/main/images/Gr%C3%A1fico%20de%20la%20varianza%20explicada%20por%20CP.png)
 <br><br>
-Finalmente, se grafica la dispersión de los datos, en donde se observa que las dos primeras Componentes, permiten discriminar los registros en función de la variable Tipo (maligno/benigno):  
+Finalmente, se grafica la dispersión de los datos, en donde se observa que las dos primeras Componentes obtenidas, permiten discriminar los registros en función de la variable Tipo (maligno/benigno):  
 <br><br>
-![]()
+![](https://github.com/rprestupa/PCA-Analisis-de-componentes-principales/blob/main/images/Gr%C3%A1fico%20de%20dispersi%C3%B3n%20de%20las%20primeras%202%20componentes.png)
 <br><br>
